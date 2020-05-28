@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobile_inventory_new">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".graph"></activity>
+        <activity android:name=".repairpage" />
+        <activity android:name=".Service_final" />
+        <activity android:name=".Service_backup" />
+        <activity android:name=".service_history_temp" />
+        <activity android:name=".Service_history" />
+        <activity android:name=".Splash" />
+        <activity android:name=".Scan_cam_update" />
+        <activity android:name=".Scan_cam_read_admin" />
+        <activity android:name=".Scan_cam_read" />
+        <activity android:name=".Retrieve_layout" />
+        <activity android:name=".Admin_Login_new" />
+        <activity android:name=".Scan_cam" />
+        <activity android:name=".Scan_result_admin" />
+        <activity android:name=".Worker_login">
+            <intent-filter>
+                <action android:name=".Worker_login" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Worker_dashboard">
+            <intent-filter>
+                <action android:name=".Worker_dashboard" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity">
+            <intent-filter>
+                <action android:name=".Main2Activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Admin_dashboard">
+            <intent-filter>
+                <action android:name=".Admin_dashboard" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Admin_login">
+            <intent-filter>
+                <action android:name=".Admin_login" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,214 @@
+{
+  "Auswins" : {
+    "windows" : "abcd"
+  },
+  "Equipments" : {
+    "1000" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Mobile",
+      "Equipment Name" : "OnePlus7t",
+      "EquipmentID" : "1000"
+    },
+    "1001" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "CD-rom",
+      "Equipment Name" : "Moserbear_CD",
+      "EquipmentID" : "1001"
+    },
+    "1002" : {
+      "Date of installation" : "29-01-2020",
+      "Equipment Catgory" : "Furnitures",
+      "Equipment Name" : "Damro Furniture Stand",
+      "EquipmentID" : "1002"
+    },
+    "1003" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Toy",
+      "Equipment Name" : "Hot_wheels",
+      "EquipmentID" : "1003"
+    },
+    "1004" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Mobile",
+      "Equipment Name" : "iPhone7",
+      "EquipmentID" : "1004"
+    },
+    "1005" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Mobile",
+      "Equipment Name" : "Redmi6",
+      "EquipmentID" : "1005"
+    },
+    "1006" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "mobile",
+      "Equipment Name" : "nokiax3",
+      "EquipmentID" : "1006"
+    },
+    "1010" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Plastic_bottles",
+      "Equipment Name" : "Tupperware_bottles",
+      "EquipmentID" : "1010"
+    },
+    "1011" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Electrical components",
+      "Equipment Name" : "Capacitor",
+      "EquipmentID" : "1011",
+      "Quantity" : "29"
+    },
+    "1012" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Components",
+      "Equipment Name" : "Alum Plate",
+      "EquipmentID" : "1012",
+      "Quantity" : "12"
+    },
+    "1013" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Electrical components",
+      "Equipment Name" : "Condensator",
+      "EquipmentID" : "1013",
+      "Quantity" : "5"
+    },
+    "1014" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Electrical Components",
+      "Equipment Name" : "Resistor",
+      "EquipmentID" : "1014",
+      "Quantity" : "6"
+    },
+    "1015" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Components(Non - electrical)",
+      "Equipment Name" : "Screw Brass Hex head",
+      "EquipmentID" : "1015",
+      "Quantity" : "5"
+    },
+    "1016" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Non-electrical Components",
+      "Equipment Name" : "Bolt",
+      "EquipmentID" : "1016",
+      "Quantity" : "50"
+    },
+    "1017" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Non-electrical components",
+      "Equipment Name" : "Glass",
+      "EquipmentID" : "1017",
+      "Quantity" : "7"
+    },
+    "1018" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Non-electrical components",
+      "Equipment Name" : "Nutplate",
+      "EquipmentID" : "1018",
+      "Quantity" : "10"
+    },
+    "1019" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Non-electrical components",
+      "Equipment Name" : "Pin",
+      "EquipmentID" : "1019",
+      "Quantity" : "33"
+    },
+    "1020" : {
+      "Date of installation" : "30-01-2020",
+      "Equipment Catgory" : "Non-electrical component",
+      "Equipment Name" : "Seal",
+      "EquipmentID" : "1020",
+      "Quantity" : "69"
+    }
+  },
+  "Indiawins" : {
+    "ios" : "abcd"
+  },
+  "Products" : {
+    "Tarun" : 1005
+  },
+  "Programming Knowledge" : {
+    "Android" : "abcd"
+  },
+  "Service History" : {
+    "28-01-2020" : {
+      "1011" : {
+        "Date" : "28-01-2020",
+        "Quantity" : "24",
+        "Service description" : "General checkup"
+      },
+      "1012" : {
+        "Date" : "28-01-2020",
+        "Quantity" : "29",
+        "Service description" : "Dry CLean"
+      },
+      "1017" : {
+        "Date" : "28-01-2020",
+        "Quantity" : "34",
+        "Service description" : "Moulding and shaping"
+      },
+      "1018" : {
+        "Date" : "28-01-2020",
+        "Quantity" : "40",
+        "Service description" : "Moulding and shaping"
+      },
+      "1020" : {
+        "Date" : "28-01-2020",
+        "Quantity" : "67",
+        "Service description" : "Regular checkup"
+      }
+    },
+    "29-01-2020" : {
+      "1013" : {
+        "Date" : "29-01-2020",
+        "Quantity" : "30",
+        "Service description" : "Checkup"
+      },
+      "1014" : {
+        "Date" : "29-01-2020",
+        "Quantity" : "31",
+        "Service description" : "Checkup"
+      },
+      "1018" : {
+        "Date" : "29-01-2020",
+        "Quantity" : "10",
+        "Service description" : "Basic"
+      },
+      "1019" : {
+        "Date" : "29-01-2020",
+        "Quantity" : "42",
+        "Service description" : "Moulding and shaping"
+      },
+      "1020" : {
+        "Date" : "29-01-2020",
+        "Quantity" : "39",
+        "Service description" : "Moulding and shaping"
+      }
+    },
+    "30-01-2020" : {
+      "1015" : {
+        "Date" : "30-01-2020",
+        "Quantity" : "65",
+        "Service description" : "Moulding and Shaping"
+      },
+      "1016" : {
+        "Date" : "30-01-2020",
+        "Quantity" : "60",
+        "Service description" : "Moulding and shaping"
+      }
+    },
+    "31-01-2020" : {
+      "1018" : {
+        "Date" : "31-01-2020",
+        "Quantity" : "10",
+        "Service description" : "Dry clean"
+      },
+      "1020" : {
+        "Date" : "31-01-2020",
+        "Quantity" : "69",
+        "Service description" : "Body clean"
+      }
+    }
+  }
+}
